@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ProjectDB_API.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProjectDB_API.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
