@@ -14,5 +14,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectDB_API.Controllers.MenuController",
+    "Method": "GetMenuItemsByRoles",
+    "RelativePath": "api/Menu/{roleIds}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleIds",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectDB_API.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProjectDB_API.Models.RegisterUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

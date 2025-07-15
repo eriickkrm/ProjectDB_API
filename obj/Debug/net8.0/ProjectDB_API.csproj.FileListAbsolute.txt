@@ -170,3 +170,4 @@ C:\Users\erick\source\repos\ProjectDB_API\ProjectDB_API\obj\Debug\net8.0\Project
 C:\Users\erick\source\repos\ProjectDB_API\ProjectDB_API\obj\Debug\net8.0\ProjectDB_API.genruntimeconfig.cache
 C:\Users\erick\source\repos\ProjectDB_API\ProjectDB_API\obj\Debug\net8.0\ref\ProjectDB_API.dll
 C:\Users\erick\source\repos\ProjectDB_API\ProjectDB_API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\erick\source\repos\ProjectDB_API\ProjectDB_API\obj\Debug\net8.0\ProjectDB_API.sourcelink.json
